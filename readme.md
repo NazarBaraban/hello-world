@@ -1,5 +1,5 @@
 # Hello world
-- [DEMO LINK](https://Gestapo19.github.io/layout_hello-world/)
+- [DEMO LINK](https://Gestapo19.github.io/hello-world/)
 
 ## The task
 
